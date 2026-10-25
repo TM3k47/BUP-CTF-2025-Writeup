@@ -4,8 +4,6 @@ Writeups for the challenges I solved at **BUP CTF 2025**, powered by Knight Squa
 
 **Author:** Ahammad Tausif Mayeen ([Bl4ckf1sh](https://www.linkedin.com/in/ahammad-tausif-mayeen-677a55242/))
 
-> ⚠️ **Spoilers:** every flag is shown below. The competition is over and these are published for learning.
-
 ---
 
 ## Challenges
